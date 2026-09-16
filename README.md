@@ -176,14 +176,15 @@ and evaluate frontier AI coding models.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankit-yadav9834&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=1A9E8F&icon_color=D98040&text_color=808B96&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://streak-stats.demolab.com/?user=ankit-yadav9834&hide_border=true&background=00000000&stroke=808B96&ring=1A9E8F&fire=D98040&currStreakLabel=1A9E8F&sideLabels=808B96&currStreakNum=808B96&sideNums=808B96&dates=6D7C89" height="165" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=ankit-yadav9834&hide_border=true&background=00000000&stroke=808B96&ring=1A9E8F&fire=D98040&currStreakLabel=1A9E8F&sideLabels=808B96&currStreakNum=808B96&sideNums=808B96&dates=6D7C89" height="170" alt="Contribution streak" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-yadav9834&hide_border=true&bg_color=00000000&color=1A9E8F&line=D98040&point=1A9E8F&area=true&area_color=1A9E8F" width="98%" alt="Contribution activity over the last year" />
+<img src="https://img.shields.io/github/followers/ankit-yadav9834?style=flat-square&logo=github&label=followers&labelColor=1c2128&color=0B6B62" alt="Followers" />
+<img src="https://img.shields.io/github/stars/ankit-yadav9834?style=flat-square&logo=github&label=stars&labelColor=1c2128&color=0B6B62" alt="Total stars" />
+<img src="https://komarev.com/ghpvc/?username=ankit-yadav9834&style=flat-square&color=0B6B62&label=profile+views" alt="Profile views" />
 
-<br />
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankit-yadav9834/ankit-yadav9834/output/github-snake-dark.svg" />
